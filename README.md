@@ -1,27 +1,92 @@
- <h1 align="center">Hi 👋, I'm Mcdavid Obioha</h1>
-<h3 align="center">An Idealistic Full Stack Web Developer</h3>
+<div style="text-align: left; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mcdavidsh&label=Profile%20views&color=0e75b6&style=flat" alt="mcdavidsh" /> </p>
+<h1>Hi there, I'm Mcdavid Obioha! 👋</h1>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcdavidsh" alt="mcdavidsh" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/mcdavidsh" target="blank"><img src="https://img.shields.io/twitter/follow/mcdavidsh?logo=twitter&style=for-the-badge" alt="mcdavidsh" /></a> </p>
-
-- 📫 How to reach me **mcdave92@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/mcdavidsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mcdavidsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mcdavidsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mcdavidsh" height="30" width="40" /></a>
+<h2>🌟 About Me</h2>
+<p>
+    I am a <strong>Full-Stack Developer</strong> with 4+ years of experience delivering scalable and impactful web applications. My passion lies in creating seamless user experiences and robust backend solutions. With a strong foundation in <strong>Next.js</strong>, <strong>Nest.js</strong>, <strong>React Native</strong>, and <strong>WordPress</strong>, I specialize in building versatile applications for diverse business needs.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcdavidsh&show_icons=true&locale=en&layout=compact" alt="mcdavidsh" /></p>
+<h2>🛠️ Technologies & Tools</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcdavidsh&show_icons=true&locale=en" alt="mcdavidsh" /></p>
+<h3>Frontend:</h3>
+<p>
+    <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React.js">
+    <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js">
+    <img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Native">
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap">
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" alt="Redux">
+    <img src="https://img.shields.io/badge/-Styled_Components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge" alt="Styled Components">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcdavidsh&" alt="mcdavidsh" /></p> 
-  
+<h3>Backend:</h3>
+<p>
+    <img src="https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="Nest.js">
+    <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL">
+    <img src="https://img.shields.io/badge/-TypeORM-E83524?logo=typeorm&logoColor=white&style=for-the-badge" alt="TypeORM">
+    <img src="https://img.shields.io/badge/-React_Auth_Kit-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React Auth Kit">
+    <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT">
+</p>
 
+<h3>DevOps & Hosting:</h3>
+<p>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS">
+    <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel">
+    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+</p>
+
+<h3>Content Management:</h3>
+<p>
+    <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="WordPress">
+    <img src="https://img.shields.io/badge/-Woocommerce-DA552F?logo=wordpress&logoColor=white&style=for-the-badge" alt="Woocommerce">
+</p>
+
+<hr>
+
+<h2>🏆 Key Projects</h2>
+<ul>
+    <li><a href="https://github.com/mcdavidobioha/keyword-to-pin">Keyword to Pin Pinterest Tool</a>: A tool to aggregate Pinterest keywords for content planning.</li>
+    <li><a href="https://github.com/mcdavidobioha/homely-booking-platform">Homely Booking Platform</a>: A platform to facilitate seamless online property bookings.</li>
+    <li><a href="https://gddao.com/">GDDao Community</a>: Enhanced functionality and usability for an online community platform.</li>
+</ul>
+
+<hr>
+
+<h2>📈 Career Highlights</h2>
+<p>
+    - Successfully delivered a Pinterest Keyword Aggregator Tool for a client, managing the project end-to-end.<br>
+    - Improved community engagement on GDDao Community Platform by optimizing BuddyPress features.<br>
+    - Managed cloud hosting, database integrations, and modern frontend experiences across multiple projects.
+</p>
+
+<hr>
+
+<h2>💬 Let's Connect!</h2>
+<p>
+    - <a href="https://www.linkedin.com/in/mcdavidsh">LinkedIn</a><br>
+    - <a href="mailto:mcdavidobioha@gmail.com">Email</a><br>
+    - <a href="https://github.com/mcdavidsh">GitHub</a>
+</p>
+
+<hr>
+
+<h2>🤝 Open to Collaborations</h2>
+<p>I am always open to contributing to innovative projects or collaborating with teams that value quality and innovation. Feel free to reach out if you'd like to work together!</p>
+
+<hr>
+
+<h2>🚀 Fun Fact</h2>
+<p>I follow a "terminate and reinvest" strategy, taking profits incrementally to fuel my passion for growth and innovation.</p>
+
+<hr>
+
+<blockquote>"The best way to predict the future is to create it." – Peter Drucker</blockquote>
+
+</div>
